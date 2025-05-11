@@ -11,8 +11,5 @@ setup(
     name='poc-python-ransom',
     version='0.1',
     packages=['poc-python-ransom'],
-    install_requires=[
-        'subprocess',
-        'os'
-    ]
+    install_requires=[]
 )
